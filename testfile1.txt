@@ -1,3 +1,5 @@
 I'm doing blah blah blah
 line inserted by restaurant_branch
 another edit
+
+this is an edit by the master branch
