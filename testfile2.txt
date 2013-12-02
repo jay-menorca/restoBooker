@@ -1,1 +1,2 @@
 file added by resto branch
+line 2 added by master branch
